@@ -1,0 +1,7 @@
+Giá trị nhỏ nhất của ma trận = 0
+
+Giá trị lớn nhất của ma trận = 231
+
+Tổng các phần tử trong ma trận = 6518
+
+Các số nguyên tố của ma trận: 197	173	157	101	83	37	163	19	73	101	223	3	167	
